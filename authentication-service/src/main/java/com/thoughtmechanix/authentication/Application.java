@@ -25,7 +25,6 @@ public class Application {
         return userInfo;
     }
 
-
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
     }
